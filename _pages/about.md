@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing an MSc in Statistics at the University of Oxford, where I am privileged to be advised by Prof. XXX at The Oxford Computational Statistics and Machine Learning (OxCSML) group. Prior to my studies at Oxford, I obtained my bachelor's degree in mathematics and applied mathematics from The Chinese University of Hong Kong, Shenzhen (CUHK(SZ)).
 
-During my academic journey, I had the opportunity to contribute as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK(SZ), where I worked under the guidance of Prof. [Shuguang Cui] (https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; IEEE Fellow) from June 2022 to September 2023. Before that, I gained valuable experience as a research assistant under the supervision of Prof. Costas Courcoubetis.
+During my academic journey, I had the opportunity to contribute as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK(SZ), where I worked under the guidance of [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; IEEE Fellow) from June 2022 to September 2023. Before that, I gained valuable experience as a research assistant under the supervision of [Prof. Costas Courcoubetis](https://scholar.google.com/citations?user=_vDxlTUAAAAJ&hl=en), from January 2022 to October 2022.
 
 My broad research interests lie in the Internet of Things (IoT), Signal Processing, Wireless Communications, Statistical Network Analysis, and Neuroscience. I am actively looking for any interesting research topic related to these areas!
 
