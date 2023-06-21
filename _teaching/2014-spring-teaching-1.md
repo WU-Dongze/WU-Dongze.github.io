@@ -2,6 +2,7 @@
 title: "Numerical Analysis"
 collection: teaching
 type: "Teaching Assistant"
+permalink: /teaching/2022-Fall-teaching-1
 venue: "School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen"
 date: 2022-09-01
 ---
