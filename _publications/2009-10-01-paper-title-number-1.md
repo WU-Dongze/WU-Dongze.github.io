@@ -10,6 +10,8 @@ citation: 'Jun Gao, Dongze Wu. (2023). &quot;Paper Title Number 1.&quot; <i>Jour
 
 The top journal in the areas of communication (Impact Factors: 13.1)
 
+Highlighted Contributions:
+* Proposed a new-fashioned data-driven CSI fingerprinting method for localization based on Model-Agnostic Meta-Learning (MAML) that can adapt itself rapidly to a new and possibly unseen environment
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 
