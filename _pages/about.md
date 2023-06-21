@@ -31,7 +31,9 @@ Experiences
 
 Awards
 ======
-* Presidential Award for Outstanding Students (1%; The highest honour of graduates at CUHK(SZ))
+* Presidential Award for Outstanding Students
+
+  (1%; The highest honour of graduates at CUHK(SZ))
 * 2022 Academic Performance Scholarship (1.5%)
 * 2021 Academic Performance Scholarship (1%)
 * 2020 Academic Performance Scholarship (1%)
