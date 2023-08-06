@@ -31,6 +31,7 @@ Experiences
 
 Awards & Scholarships
 ======
+* China Oxford Scholarship (Awarded to only 20 Chinese students admitted into Oxford each year; sterling 20,000 )
 * Shenzhen Universiade International Scholarship (2%; 50,000 RMB)
 * Presidential Award for Outstanding Students
 
