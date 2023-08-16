@@ -8,7 +8,7 @@ paperurl: 'https://arxiv.org/abs/2211.04258'
 citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, S. Cui (2023). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-The top journal in the areas of communication (Impact Factors: 16.1)
+Impact Facrtor: 16.4; Ranked among the top 5 in all IEEE journals and the top 1 journal publishing technical articles in communication engineering
 
 Current localization models mainly concentrate on specific environments, overlooking their adaptation abilities in new test settings. Our objective is to introduce a localization framework with great generalization capabilities for application in unseen test environments. Below, we present our highlighted contributions:
 * Proposed a new-fashioned data-driven CSI fingerprinting method for localization based on Model-Agnostic Meta-Learning (MAML) that can adapt itself rapidly to a new and possibly unseen test environment
