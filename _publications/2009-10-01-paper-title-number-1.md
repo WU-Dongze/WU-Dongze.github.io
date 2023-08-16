@@ -1,7 +1,7 @@
 ---
 title: "MetaLoc: Learning to Learn Wireless Localization"
 collection: publications
-date: 2023-07-01
+date: 2023-08-14
 permalink: /publication/2023-07-01-paper-title-number-1
 venue: 'IEEE Journal on Selected Areas in Communications'
 citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, and S. Cui, "MetaLoc: Learning to Learn Wireless Localization," in IEEE Journal on Selected Areas in Communication, 2023'
