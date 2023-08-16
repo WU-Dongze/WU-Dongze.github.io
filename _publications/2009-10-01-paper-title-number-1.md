@@ -15,6 +15,7 @@ Current localization models mainly concentrate on specific environments, overloo
 * Proposed Model-Agnostic Meta-Learning with Domain Generalization (MAML-DG) by modifying the loss function of MAML through imitating the real-time train-test domain shifts so that different domains are forced to converge in a similar direction, which enables faster convergence and better adaptation abilities
 * Proposed Model-Agnostic Meta-Learning with Task Similarity (MAML-TS), from the view of task similarity using maximum mean discrepancy
 * Conducted strong convergence analysis, testing performance analysis, and first-order optimality analysis for the loss functions of MAML frameworks; Derived theoretical error bounds of the meta-parameters of MAML and MAML-TS
+
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 
