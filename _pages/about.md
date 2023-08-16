@@ -33,11 +33,11 @@ Awards & Scholarships
 ======
 * [China Oxford Scholarship](http://chinaoxford.org/)
   
-  A very prestigious award given to only 20 out of 1,700 admitted Chinese students at Oxford, with a value of £20,000.
+  (A very prestigious award given to only 20 out of 1,700 admitted Chinese students at Oxford, with a value of £20,000)
 * Shenzhen Universiade International Scholarship (50,000 RMB)
 * Presidential Award for Outstanding Students
   
-  1%; The highest honour for undergraduates at CUHK(SZ)
+  (1%; The highest honour for undergraduates at CUHK(SZ))
 * 2022 Academic Performance Scholarship (1.5%, 40,000 RMB)
 * 2021 Academic Performance Scholarship (1%; 40,000 RMB)
 * 2020 Academic Performance Scholarship (1%; 40,000 RMB)
