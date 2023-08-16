@@ -12,7 +12,7 @@ I am currently pursuing an MSc in Statistics at the University of Oxford, where 
 
 During my academic journey, I had the opportunity to contribute as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK(SZ), where I worked under the guidance of [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; IEEE Fellow) from June 2022 to September 2023. Before that, I gained valuable experience as a research assistant under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
 
-My broad research interests lie in the Internet of Things (IoT), Signal Processing, Wireless Communications, Statistical Network Analysis, and Neuroscience. I am actively looking for any interesting research topic related to these areas!
+My broad research interests lie in the Internet of Things (IoT), Signal Processing, Wireless Communications, Statistical Network Analysis, Neuroscience, etc. I am actively looking for any interesting research topic related to these areas!
 
 Experiences
 ======
@@ -31,10 +31,10 @@ Experiences
 
 Awards & Scholarships
 ======
-* China Oxford Scholarship (Awarded to only 20 Chinese students admitted into Oxford each year; sterling 20,000 )
-* Shenzhen Universiade International Scholarship (2%; 50,000 RMB)
+* China Oxford Scholarship
+  A very prestigious award given to only 20 out of 1,700 admitted Chinese students at Oxford, with a value of £20,000.
+* Shenzhen Universiade International Scholarship (50,000 RMB)
 * Presidential Award for Outstanding Students
-
   (1%; The highest honour of graduates at CUHK(SZ))
 * 2022 Academic Performance Scholarship (1.5%, 40,000 RMB)
 * 2021 Academic Performance Scholarship (1%; 40,000 RMB)
