@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Honored to have received China Oxford Scholarship!'
+date: 2023-08-10
+permalink: https://mp.weixin.qq.com/s/7IbgdkZFesX_JBGKWo5xvg
 tags:
   - cool posts
   - category1
