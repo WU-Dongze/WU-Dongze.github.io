@@ -1,7 +1,7 @@
 ---
 title: 'Honored to have received China Oxford Scholarship!'
 date: 2023-08-10
-permalink: https://mp.weixin.qq.com/s/7IbgdkZFesX_JBGKWo5xvg
+link: https://mp.weixin.qq.com/s/7IbgdkZFesX_JBGKWo5xvg
 tags:
   - cool posts
   - category1
