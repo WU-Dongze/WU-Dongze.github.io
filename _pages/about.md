@@ -41,9 +41,9 @@ Awards & Scholarships
 * 2022 Academic Performance Scholarship (1.5%, 40,000 RMB)
 * 2021 Academic Performance Scholarship (1%; 40,000 RMB)
 * 2020 Academic Performance Scholarship (1%; 40,000 RMB)
-* Liyun Scholarship
+* Entrance Scholarship
 
-  (top 0.8% in the National College Entrance Examination)
+  (Top 0.8% in the National College Entrance Examination; 40,000 RMB for three years)
 
 Hobbies
 ======
