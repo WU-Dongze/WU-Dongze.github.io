@@ -45,7 +45,8 @@ Awards & Scholarships
 
 Hobbies
 ======
-* Photography
-* Hiking
-* Amateur Astronomer
+* Photography📷
+* Hiking🌳⛰️
+* Amateur Astronomer🌌
+* Cat (especially Himalayan!)🐈
 
