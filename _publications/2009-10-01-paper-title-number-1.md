@@ -9,11 +9,11 @@ citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, and S. Cui, "MetaLoc: Learnin
 
 Latest IF=16.4; Ranked among the top 5 IEEE journals in all areas and recognized as the top journal for technical articles in communication engineering
 
-Current localization models mainly concentrate on specific environments, overlooking their adaptation abilities in new test settings. Our objective is to introduce a localization framework with great generalization capabilities for application in unseen test environments. Below, we present our highlighted contributions:
-* Proposed a new-fashioned data-driven CSI fingerprinting method for localization based on Model-Agnostic Meta-Learning (MAML) that can adapt itself rapidly to a new and possibly unseen test environment
-* Proposed Model-Agnostic Meta-Learning with Domain Generalization (MAML-DG) by modifying the loss function of MAML through imitating the real-time train-test domain shifts so that different domains are forced to converge in a similar direction, which enables faster convergence and better adaptation abilities
-* Proposed Model-Agnostic Meta-Learning with Task Similarity (MAML-TS), from the view of task similarity using maximum mean discrepancy
-* Conducted strong convergence analysis, testing performance analysis, and first-order optimality analysis for the loss functions of MAML frameworks; Derived theoretical error bounds of the meta-parameters of MAML and MAML-TS
+Current localization models mainly concentrate on specific environments, overlooking their adaptation abilities in new test settings. Our objective is to introduce a localization framework with great generalization capabilities in terms of minimal fine-tuning data and minimal gradient steps for application in unseen test environments. Below, we present our highlighted contributions:
+* The paper introduces a pioneering localization framework called MetaLoc, which comprises of: (1) A centralized paradigm based on Model-Agnostic Meta-Learning (MAML) and (2) A distributed paradigm combining MAML with task similarity (MAML-TS) and MAML with Domain Generalization (MAML-DG)
+* MetaLoc stands out from the crowd by quickly and efficiently adapting to new environments through a small number of newly collected measurements and only 10 gradient steps, which breaks through the traditional environment-specific localization bottleneck.
+* Theoretical Contributions: Conduct convergence analysis, testing performance analysis, and first-order optimality analysis for the loss functions of MAML and MAML-DG; Derived an upper bound consisting of empirical terms for the theoretical generalization error of MAML, which gives insspirations of the development of MAML-TS.
+* Unlimited Application potentials: MetaLoc possesses: 1) Outstanding Localization Performance 2) Highly Flexible Model Compatibility, meaning that it holds tremendous potential of future use in the whole signal processing area 3) 
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
