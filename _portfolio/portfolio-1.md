@@ -1,6 +1,6 @@
 ---
 title: "Major Contributions in MetaLoc: Learning to Learn Indoor Localization"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/overview.png'>"
+excerpt: "<br/><img src='/images/overview.png'>"
 collection: portfolio
 ---
 
