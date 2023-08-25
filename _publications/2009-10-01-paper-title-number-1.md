@@ -9,12 +9,12 @@ citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, and S. Cui, "MetaLoc: Learnin
 
 Latest IF=16.4; Ranked among the top 5 IEEE journals in all areas and recognized as the top journal for technical articles in communication engineering
 
-Current localization models mainly concentrate on specific environments, overlooking their adaptation abilities in new test settings. Our objective is to introduce a localization framework with great generalization capabilities in terms of minimal fine-tuning data and minimal gradient steps for application in unseen test environments. Below, we present our highlighted contributions:
+Present localization models mainly focus on specific environments, often neglecting their adaptation abilities in new testing scenarios. Our aim is to develop a localization framework with exceptional generalization capabilities, requiring minimal data and gradient steps for fine-tuning to be employed in unobserved test environments. Here are our key contributions:
 * The paper introduces a pioneering localization framework called MetaLoc, which comprises of: (1) A centralized paradigm based on Model-Agnostic Meta-Learning (MAML) and (2) A distributed paradigm combining MAML with task similarity (MAML-TS) and MAML with Domain Generalization (MAML-DG)
 * MetaLoc stands out from the crowd by quickly and efficiently adapting to new environments through a small number of newly collected measurements and only 10 gradient steps, which breaks through the traditional environment-specific localization bottleneck.
-* Theoretical Contributions: Conduct convergence analysis, testing performance analysis, and first-order optimality analysis for the loss functions of MAML and MAML-DG; Derived an upper bound consisting of empirical terms for the theoretical generalization error of MAML, which gives insspirations of the development of MAML-TS.
-* Unlimited Application potentials: MetaLoc possesses: 1) Outstanding Localization Performance 2) Highly Flexible Model Compatibility, meaning that it holds tremendous potential of future use in the whole signal processing area 3) 
+* Theoretical Contributions: We provide convergence analysis and first-order optimality analysis for the loss functions associated with MAML and MAML-DG. We also derive an empirical upper bound for the theoretical generalization error of MAML, laying the groundwork for the evolution of MAML-TS.
+* MetaLoc demonstrates: 1) Superior Localization Performance 2) Rapid adaptation to new or unseen testing scenarios 3) Enhanced Model Flexibility. Such attributes underscore its immense potential for broader applications in signal processing, including smart homes and telemedicine surgeries.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2211.04258)
 
 
