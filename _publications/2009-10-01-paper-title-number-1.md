@@ -9,6 +9,8 @@ citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, and S. Cui, "MetaLoc: Learnin
 
 Latest IF=16.4; Ranked among the top 5 IEEE journals in all areas and recognized as the top journal for technical articles in communication engineering
 
+To view my main contributions to the paper, please refer to <https://wu-dongze.github.io/portfolio/portfolio-1/>.
+
 Present localization models mainly focus on specific environments, often neglecting their adaptation abilities in new testing scenarios. Our aim is to develop a localization framework with exceptional generalization capabilities, requiring minimal data and gradient steps for fine-tuning to be employed in unobserved test environments. Here are our key contributions:
 * The paper introduces a pioneering localization framework called MetaLoc, which comprises of: (1) A centralized paradigm based on Model-Agnostic Meta-Learning (MAML) and (2) A distributed paradigm combining MAML with task similarity (MAML-TS) and MAML with Domain Generalization (MAML-DG)
 * MetaLoc stands out from the crowd by quickly and efficiently adapting to new environments through a small number of newly collected measurements and only 10 gradient steps, which breaks through the traditional environment-specific localization bottleneck.
