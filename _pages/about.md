@@ -16,9 +16,13 @@ My broad research interests lie in the Internet of Things (IoT), Signal Processi
 
 Experiences
 ======
-* [Future Network of Intelligence Institute (FNii)](https://fnii.cuhk.edu.cn/) (Jun. 2022-Now)
+* [School of Science and Engineering](https://sse.cuhk.edu.cn/en) (Jun. 2023-Sep. 2023)
   
-  Research Assistant, supervised by [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN)
+  Research Assistant, supervised by [Prof. Sergios Theodoridis](https://scholar.google.com/citations?user=3dBjdv4AAAAJ&hl=en) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng)
+
+* [Future Network of Intelligence Institute (FNii)](https://fnii.cuhk.edu.cn/) (Jun. 2022-May. 2023)
+
+  Research Assistant, supervised by [Prof. CUI Shuguang](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng)
 
 * [School of Data Science](https://sds.cuhk.edu.cn/en), CUHK(SZ) (Jan. 2023-Oct. 2023)
 
