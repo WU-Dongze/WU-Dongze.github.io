@@ -16,7 +16,7 @@ My broad research interests lie in the Internet of Things (IoT), Signal Processi
 
 Experiences
 ======
-* [School of Science and Engineering](https://sse.cuhk.edu.cn/en) (Jun. 2023-Sep. 2023)
+* [School of Science and Engineering](https://sse.cuhk.edu.cn/en), CUHK(SZ) (Jun. 2023-Sep. 2023)
   
   Research Assistant, supervised by [Prof. Sergios Theodoridis](https://scholar.google.com/citations?user=3dBjdv4AAAAJ&hl=en) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng)
 
