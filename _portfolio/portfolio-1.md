@@ -19,3 +19,4 @@ Drawing inspiration from the prior study, "Task Similarity Aware Meta Learning: 
 
 Code and Dataset Maintenance
 ===
+I authored the code for MAML-DG and contributed to the coding of MAML-TS. All MetaLoc codes are now public and maintained by me. Additionally, to enable objective performance evaluation of various localization methods, we introduced a public dataset, which is also maintained by me. Please access both the codes and dataset via my GitHub: https://github.com/dongzewuu/MetaLoc
