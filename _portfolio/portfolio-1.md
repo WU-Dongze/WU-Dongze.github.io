@@ -8,5 +8,4 @@ My main contibutions in MetaLoc contains two parts: 1) Model Development, 2) Mat
 
 The development of Model-Agnostic Meta-Learning with Domain Generalization (MAML-DG)
 ===
-
-
+Facing the relatively low convergence speed and less satisfactory generalization abilities of the vanilla MAML (proposed by Chelsea Fin in 2017), I improve the algorithm by modifying the loss function through imitating the reat-time train-test domain shifts, to ensure that the model can quickly generalize to different domains.
