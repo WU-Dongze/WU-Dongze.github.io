@@ -4,7 +4,9 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/500
 collection: portfolio
 ---
 
-My main contibutions in MetaLoc contains two parts: 1) Model Development, and 2) Mathematical Derivations.
+My main contibutions in MetaLoc contains two parts: 1) Model Development, 2) Mathematical Derivations, and 3) Code and Dataset Maintainance.
 
-The MetaLoc includes two paradigms: 
+The development of Model-Agnostic Meta-Learning with Domain Generalization (MAML-DG)
+===
+
 
