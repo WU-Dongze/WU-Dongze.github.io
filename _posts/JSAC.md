@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-Thrilled to announce that our paper, "MetaLoc: Learning to Learn Wireless Localization," has been accepted to IEEE JSAC 2023! 🎉 It's an honor to be recognized and published in this prestigious journal in the communications field. Looking forward to sharing our findings with the global community! 
+Thrilled to announce that our paper, "MetaLoc: Learning to Learn Wireless Localization," has been accepted to IEEE JSAC 2023! 🎉 A whole year's hard work finally rewarded!🎉🎉 It's an honor to be recognized and published in this prestigious journal in the communications field. Looking forward to sharing our findings with the global community! 
 
-![avatar](/images/Oxford.png)
+![avatar](/images/JSAC.png)
 
