@@ -1,5 +1,5 @@
 ---
-title: "Major Contributions in MetaLoc: Learning to Learn Indoor Localization"
+title: "My Major Contributions to MetaLoc: Learning to Learn Indoor Localization"
 excerpt: "<br/><img src='/images/overview.png'>"
 collection: portfolio
 ---
