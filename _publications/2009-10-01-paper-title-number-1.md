@@ -1,6 +1,7 @@
 ---
 title: "MetaLoc: Learning to Learn Wireless Localization"
 collection: publications
+accepted: yes
 date: 2023-08-14
 permalink: /publication/2023-07-01-paper-title-number-1
 venue: 'IEEE Journal on Selected Areas in Communications'
