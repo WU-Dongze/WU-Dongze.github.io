@@ -1,6 +1,5 @@
 ---
 title: "Bayesian-Boosted MetaLoc: Efficient Training and Enhanced Generalization for Indoor Localization"
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
