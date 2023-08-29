@@ -37,7 +37,7 @@ Awards & Scholarships
 ======
 * [China Oxford Scholarship](http://chinaoxford.org/)
   
-  (A very prestigious award given to only 20 out of 1,700 admitted Chinese students at Oxford, with a value of £20,000)
+  (A very prestigious award given to only 20 out of 1,000 admitted Chinese students at Oxford, with a value of £20,000)
 * Shenzhen Universiade International Scholarship (50,000 RMB)
 * Presidential Award for Outstanding Students
   
@@ -47,7 +47,7 @@ Awards & Scholarships
 * 2020 Academic Performance Scholarship (1%; 40,000 RMB)
 * Entrance Scholarship
 
-  (Top 0.8% in the National College Entrance Examination; 40,000 RMB for three years)
+  (Top 0.6% in the National College Entrance Examination; 40,000 RMB for three years)
 
 Hobbies
 ======
