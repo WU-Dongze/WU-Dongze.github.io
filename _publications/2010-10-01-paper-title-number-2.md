@@ -1,6 +1,6 @@
 ---
 title: "Bayesian-Boosted MetaLoc: Efficient Training and Enhanced Generalization for Indoor Localization"
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/abs/2308.14824'
 ---
 
 Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024, the leading conference in signal processing.
