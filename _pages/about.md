@@ -18,7 +18,7 @@ Experiences
 ======
 * [School of Science and Engineering](https://sse.cuhk.edu.cn/en), CUHK(SZ) (Jun. 2023-Sep. 2023)
   
-  Research Assistant, supervised by [Prof. Sergios Theodoridis](https://scholar.google.com/citations?user=3dBjdv4AAAAJ&hl=en) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng)
+  Research Assistant, supervised by [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng)
 
 * [Future Network of Intelligence Institute (FNii)](https://fnii.cuhk.edu.cn/) (Jun. 2022-May. 2023)
 
