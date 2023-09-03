@@ -1,5 +1,5 @@
 ---
-title: "Bayesian-Boosted MetaLoc: Efficient Training and Enhanced Generalization for Indoor Localization"
+title: "Bayesian-Boosted MetaLoc: Efficient Training and Guaranteed Generalization for Indoor Localization"
 paperurl: 'https://arxiv.org/abs/2308.14824'
 ---
 
