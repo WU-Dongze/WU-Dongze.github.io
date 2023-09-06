@@ -12,7 +12,7 @@ I am currently pursuing an MSc in Statistics at the University of Oxford, conduc
 
 During my academic journey, I had the opportunity to contribute as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK(SZ), where I worked under the guidance of [Prof. CUI Shuguang](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; IEEE Fellow) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng) from June 2022 to September 2023. Before that, I gained valuable experience as a research assistant under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
 
-My broad research interests lie in the Internet of Things (IoT), Signal Processing, Wireless Communications, Statistical Network Analysis, Neuroscience, etc. I am actively looking for any interesting research topic related to these areas!
+My research interests span Statistical Machine Learning, Signal Processing, Wireless Communications, Neuroscience, and etc. I'm particularly drawn to diverse fields where I can develop and apply innovative statistical machine learning algorithms. I am actively looking for any interesting research topic related to these areas!
 
 Experiences
 ======
