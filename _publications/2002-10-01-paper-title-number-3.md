@@ -12,3 +12,4 @@ Below are the main contributions of the project:
 
 I contributed to two parts of the mathematical derivations of the project:
 1. We derived the unique Nash's equilibrium under the Cap-and-Trade mechanism for any S, any \gamma, in the case that the number of low-abatement cost firms (m) is less than the total number of firms (n). The unique equilirbirum is:
+![avatar](derivations.jpg)
