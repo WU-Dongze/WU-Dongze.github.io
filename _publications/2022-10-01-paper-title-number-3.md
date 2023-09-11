@@ -1,6 +1,6 @@
 ---
 title: "Carbon Permit Distribution Policies under Competitive Markets"
-permalink: /publications/2022-10-01-paper-title-number-3
+permalink: /publication/2022-10-01-paper-title-number-3
 ---
 
 Below are the main contributions of the project:
