@@ -3,7 +3,7 @@ title: "Bayesian-Boosted MetaLoc: Efficient Training and Guaranteed Generalizati
 paperurl: 'https://arxiv.org/pdf/2308.14824v2.pdf'
 ---
 
-Submitted to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024, the leading conference in signal processing.
+**Submitted** to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024, the leading conference in signal processing.
 
 Below are the main contributions of the paper:
 * Provide a theoretical analysis using the PAC-Bayesian framework and derive novel generalization bounds for meta-learning, which are further used to develop a Bayes-Optimal Meta-Learning algorithm with performance guarantees
