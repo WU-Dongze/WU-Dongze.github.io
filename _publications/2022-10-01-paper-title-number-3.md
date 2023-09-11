@@ -2,6 +2,7 @@
 title: "Carbon Permit Distribution Policies under Competitive Markets"
 permalink: /publication/2022-10-01-paper-title-number-3
 ---
+Click in to view my primary contributions to the mathematical derivations of the project
 
 Below are the main contributions of the project:
 * Proposed permit distribution policies under competitive markets: firms choose technology types in Stage I and decide production & carbon abatement in Stage II based on competition and game theory
