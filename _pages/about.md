@@ -12,7 +12,11 @@ I am currently pursuing an MSc in Statistics at the **University of Oxford**, co
 
 During my academic journey, I had the opportunity to contribute as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK, where I worked under the guidance of [Prof. CUI Shuguang](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; Fellow of The Academy of Science of the Royal Society of Canada; IEEE Fellow) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng) from June 2022 to September 2023. Before that, I gained valuable experience as a research assistant under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
 
-My research interests encompass both theoretical foundations and practical applications. I am committed to developing innovative statistical algorithms, with a particular emphasis on Bayesian methodologies and PAC learning. I also enjoy providing rigorous mathematical analyses for model evaluations. My enthusiasm also extends to the practical applications of statistical ML algorithms, especially in fields such as signal processing, neuroscience, biomedical, biostatistics, healthcare, and computational astronomy, etc. These intriguing domains captivate me immensely!
+Research Interests
+======
+In my prior work, I've made substantial contributions to mathematical analyses and model evaluations, setting the stage for advanced model development. I am deeply committed to the mathematical rigor and creation of innovative statistical algorithms, with a particular emphasis on Bayesian methodologies, Gaussian Process, and PAC learning.
+
+My research interests encompass both theoretical foundations and their real-world applications. The allure of applying statistical ML algorithms to domains such as signal processing, neuroscience, biostatistics, healthcare, and computational astronomy is irresistible to me. These fields not only intrigue but also inspire me to push the boundaries of statistical knowledge.
 
 Experiences
 ======
