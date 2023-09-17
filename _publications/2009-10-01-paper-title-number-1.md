@@ -5,7 +5,7 @@ accepted: yes
 date: 2023-08-14
 permalink: /publication/2023-07-01-paper-title-number-1
 venue: 'IEEE Journal on Selected Areas in Communications'
-citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, and S. Cui, "MetaLoc: Learning to Learn Wireless Localization," in IEEE Journal on Selected Areas in Communication, 2023'
+citation: 'J. Gao, D. Wu., F. Yin, Q. Kong, L. Xu, and S. Cui, "MetaLoc: Learning to Learn Wireless Localization," in IEEE Journal on Selected Areas in Communication, 2023, (in press).'
 ---
 
 Latest IF=16.4; Ranked among the top 5 IEEE journals in all areas and recognized as the top journal for technical articles in communication engineering
