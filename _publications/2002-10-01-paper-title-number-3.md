@@ -11,7 +11,8 @@ Below are the main contributions of the project:
 * Determined the number of firms opting for low-pollution technology in Stage I, considering different parameters and equilibrium solutions from Stage II
 * Derived n optimal profit functions for n firms and defined equilibrium type for the region between every two curves. Proved the monotonicity and asymptotic behavior; Proved the uniqueness of the equilibrium solutions in Stage II
 
-I contributed to three parts of the mathematical derivations of the project:
+I contributed to three parts of the mathematical derivations of the project. To provide a glimpse into my contributions, I've outlined some of the key derivations below:
+
 1. We established the subsequent theorem which identifies the unique Nash equilibrium in a Cap-and-Trade setting. In this context, the subscripts l and h represent firms with low and high abatement costs respectively, while the superscripts ct indicate outcomes within the Cap-and-Trade framework:
 ![avatar](/images/part1.png)
 
