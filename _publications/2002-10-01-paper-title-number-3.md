@@ -12,10 +12,13 @@ Below are the main contributions of the project:
 * Derived n optimal profit functions for n firms and defined equilibrium type for the region between every two curves. Proved the monotonicity and asymptotic behavior; Proved the uniqueness of the equilibrium solutions in Stage II
 
 I contributed to three parts of the mathematical derivations of the project:
-1. We derived the unique Nash's equilibrium under the Cap-and-Trade mechanism for any S, any \gamma, in the case that the number of low-abatement cost firms (m) is less than the total number of firms (n). The unique equilirbirum is:
+1. We established the subsequent theorem which identifies the unique Nash equilibrium in a Cap-and-Trade setting. In this context, the subscripts l and h represent firms with low and high abatement costs respectively, while the superscripts ct indicate outcomes within the Cap-and-Trade framework:
+![avatar](/images/part1.png)
+
+And part of the proof of Theorem I is given below:
 ![avatar](/images/derivations1.png)
 
-2. Proof of absence of profit overshifting:
+4. Proof of absence of profit overshifting:
 ![avatar](/images/derivations2.png)
 
-3. We derived n optimal profit functions for n firms and defined equilibrium type for the region between each two curves. (The manuscript for this section is being prepared)
+5. We derived n optimal profit functions for n firms and defined equilibrium type for the region between each two curves. (The manuscript for this section is being prepared)
