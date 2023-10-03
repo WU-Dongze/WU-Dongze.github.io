@@ -16,7 +16,10 @@ I contributed to three parts of the mathematical derivations of the project:
 ![avatar](/images/part1.png)
 
 And part of the proof of Theorem I is given below:
-![avatar](/images/derivations1.png)
+![avatar](/images/p1.png)
+![avatar](/images/p2.png)
+![avatar](/images/p3.png)
+![avatar](/images/p4.png)
 
 4. Proof of absence of profit overshifting:
 ![avatar](/images/derivations2.png)
