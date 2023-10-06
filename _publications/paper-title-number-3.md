@@ -6,10 +6,10 @@ collection: publications
 Click in to view my primary contributions to the **mathematical derivations** of the project
 
 Below are the main contributions of the project:
-* Proposed permit distribution policies under competitive markets: firms choose technology types in Stage I and decide production & carbon abatement in Stage II based on competition and game theory
-* Derived equilibrium solutions in Stage II for production, abatement, trading volume, and carbon permit prices by analyzing the unique Nash's and Corner's equilibriums
-* Determined the number of firms opting for low-pollution technology in Stage I, considering different parameters and equilibrium solutions from Stage II
-* Derived n optimal profit functions for n firms and defined equilibrium type for the region between every two curves. Proved the monotonicity and asymptotic behavior; Proved the uniqueness of the equilibrium solutions in Stage II
+* Developed and analyzed a two-stage competition game for competitive markets: In Stage I, firms determine carbon abatement investments; in Stage II, they engage in competition over production, pricing, and abatement levels, dynamically trading carbon permits until reaching equilibrium, based on optimization and game theory
+* Derived the optimal solutions in Stage II for production, abatement ratio, trading volume, carbon prices, and a critical point deciding the unique Nash’s and Corner’s equilibria; After incorporating Stage I, derived a set of optimal function curves that clearly defines the new equilibrium type after the competition across two stages
+* Proved the uniqueness of the equilibrium solutions in Stage II; Proved the monotonicity and asymptotic behavior of the functional curves defined in Stage I; Derived the dominant parameters that affect the overall equilibrium pattern
+* Defined and optimized a non-trivial social welfare function w.r.t. numerous parameters, subject to a set of feasibility constraints, to help decision makers formulate the optimal carbon control policies
 
 I contributed to three parts of the mathematical derivations of the project. To provide a glimpse into my contributions, I've outlined some of the key derivations below:
 
