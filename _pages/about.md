@@ -10,13 +10,13 @@ redirect_from:
 
 I am currently pursuing an MSc in Statistics at the **University of Oxford**, conducting research within the [Oxford Computational Statistics and Machine Learning (OxCSML)](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning/10) group. Prior to my studies at Oxford, I obtained my bachelor's degree in mathematics and applied mathematics from **The Chinese University of Hong Kong, Shenzhen**.
 
-During my academic journey, I had the opportunity to contribute as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK, where I worked under the guidance of [Prof. CUI Shuguang](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; Fellow of The Academy of Science of the Royal Society of Canada; IEEE Fellow) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng) from June 2022 to September 2023. Before that, I gained valuable experience as a research assistant under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
+I had the opportunity to work as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK, where I was hornored to be supervised by [Prof. CUI Shuguang](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; Fellow of The Academy of Science of the Royal Society of Canada; IEEE Fellow) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng) from June 2022 to September 2023. Before that, I gained valuable research experience under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
 
 Research Interests
 ======
-In my prior work, I've made substantial contributions to mathematical analyses and model evaluations, setting the stage for advanced model development. I am deeply committed to the mathematical rigor and creation of innovative statistical algorithms, with a particular emphasis on Bayesian methodologies, Gaussian Process, and PAC learning.
+In my previous projects, I made substantial contributions to the mathematical analyses of algorithms, setting the stage for advanced model development. I am deeply attracted to mathematical rigor and aim to develop innovative and efficient statistical algorithms, with a particular emphasis on Bayesian methodologies, Gaussian Processes, and PAC learning.
 
-My research interests encompass both theoretical foundations and their real-world applications. The allure of applying statistical ML algorithms to domains such as signal processing, neuroscience, biostatistics, healthcare, and computational astronomy is irresistible to me. These fields not only intrigue but also inspire me to push the boundaries of statistical knowledge.
+My research interests also extend to their exciting applications in fields such as signal processing, computational neuroscience, biostatistics, healthcare, and computational astronomy. I am deeply driven by my curiosity to explore the unknown world!
 
 Experiences
 ======
