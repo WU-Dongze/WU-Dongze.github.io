@@ -18,7 +18,7 @@ In my previous projects, I made substantial contributions to the mathematical an
 
 My research interests also extend to their exciting applications in fields such as signal processing, computational neuroscience, biostatistics, healthcare, and computational astronomy. I am deeply driven by my curiosity to explore the unknown world!
 
-Experiences
+Research Experiences
 ======
 * School of Science and Engineering, CUHK(SZ) (Jun. 2023-Sep. 2023)
   
@@ -31,10 +31,6 @@ Experiences
 * School of Data Science, CUHK(SZ) (Jan. 2023-Oct. 2023)
 
   Research Assistant, supervised by Prof. Costas Courcoubetis
-
-* [Bopu Fund](https://www.bopufund.com/en/home) (Dec. 2022-Feb. 2023)
-
-  Quantitative Researcher
 
 
 Awards & Scholarships
