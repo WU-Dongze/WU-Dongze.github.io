@@ -20,8 +20,9 @@ And part of the proof of Theorem I is given below:
 ![avatar](/images/p2.png)
 ![avatar](/images/p3.png)
 ![avatar](/images/p4.png)
+![avatar](/images/p5.png)
 
-2. Proof of absence of profit overshifting:
+3. Proof of absence of profit overshifting:
 ![avatar](/images/absence.png)
 
-3. We derived n optimal profit functions for n firms and defined equilibrium type for the region between each two curves. (The manuscript for this section is being prepared)
+4. We derived n optimal profit functions for n firms and defined equilibrium type for the region between each two curves. (The manuscript for this section is being prepared)
