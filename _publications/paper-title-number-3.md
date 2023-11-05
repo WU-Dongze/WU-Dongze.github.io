@@ -15,7 +15,7 @@ I contributed to three parts of the mathematical derivations of the project. To 
 
 1. We established the subsequent theorem which identifies the unique Nash equilibrium in a Cap-and-Trade setting. In this context, the subscripts l and h represent firms with low and high abatement costs respectively, while the superscripts ct indicate outcomes within the Cap-and-Trade framework:
 ![avatar](/images/part1.png)
-And part of the proof of Theorem I is given below:
+And <u>part of the proof of Theorem I</u> is given below:
 ![avatar](/images/p1.png)
 ![avatar](/images/p2.png)
 ![avatar](/images/p3.png)
