@@ -16,7 +16,7 @@ Research Interests
 ======
 In my previous projects, I made substantial contributions to the mathematical analyses of algorithms, setting the stage for advanced model development. I am deeply attracted to mathematical rigor and aim to develop computationally efficient statistical algorithms, with a particular emphasis on Bayesian methodologies, Gaussian Processes, and high-dimensional inference.
 
-My research interests also extend to their exciting applications in fields such as signal processing, biostatistics and healthcare. I am deeply driven by my curiosity to explore the unknown world!
+My research interests also extend to their exciting applications in fields such as signal processing, biostatistics and astrostatistics. I am deeply driven by my curiosity to explore the unknown world!
 
 Research Experiences
 ======
