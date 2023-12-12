@@ -4,7 +4,7 @@ collection: publications
 paperurl: 'https://arxiv.org/pdf/2308.14824v2.pdf'
 ---
 
-**Submitted** to IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024, the leading conference in signal processing.
+**Accepted** by IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024, the leading conference in signal processing.
 
 Below are the main contributions of the paper:
 * Provided a theoretical analysis using the PAC-learning and derived novel generalization bounds for Bayesian meta-learning, which were further optimized to develop a Bayes-optimal hyper-posterior with performance guarantees
