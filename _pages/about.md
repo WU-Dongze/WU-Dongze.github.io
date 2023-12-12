@@ -54,5 +54,4 @@ Hobbies
 * Photography📷
 * Hiking🌳⛰️
 * Amateur Astronomer🌌
-* Cat (especially Himalayan!)🐈
 
