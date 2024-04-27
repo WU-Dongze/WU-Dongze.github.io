@@ -35,10 +35,6 @@ Research Experiences
 
 Awards & Scholarships
 ======
-* [China Oxford Scholarship](http://chinaoxford.org/)
-  
-  (A very prestigious award given to only 20 out of 1,000 admitted Chinese students at Oxford, with a value of £20,000)
-* Shenzhen Universiade International Scholarship (50,000 RMB)
 * Presidential Award for Outstanding Students
   
   (1%; The highest honour for undergraduates at CUHK(SZ))
