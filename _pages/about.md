@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently pursuing an MSc in Statistics at the **University of Oxford**, conducting research within the [Oxford Computational Statistics and Machine Learning (OxCSML)](https://www.stats.ox.ac.uk/computational-statistics-and-machine-learning/10) group. Prior to my studies at Oxford, I obtained my bachelor's degree in mathematics and applied mathematics from **The Chinese University of Hong Kong, Shenzhen**.
 
-I had the opportunity to work as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK, where I was hornored to be supervised by [Prof. CUI Shuguang](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=zh-CN) (Fellow of The Canadian Academy of Engineering; Fellow of The Academy of Science of the Royal Society of Canada; IEEE Fellow) and [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng) from June 2022 to September 2023. Before that, I gained valuable research experience under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
+I had the opportunity to work as a research assistant at the Future Network of Intelligence Institute (FNii) at CUHK, where I was hornored to be supervised by [Prof. YIN Feng](https://sse.cuhk.edu.cn/en/faculty/yinfeng) from June 2022 to September 2023. Before that, I gained valuable research experience under the supervision of [Prof. Costas Courcoubetis](https://sds.cuhk.edu.cn/en/teacher/473), from January 2022 to October 2022.
 
 Research Interests
 ======
@@ -24,9 +24,6 @@ Research Experiences
   
   Research Assistant, supervised by Prof. YIN Feng
 
-* [Future Network of Intelligence Institute (FNii)](https://fnii.cuhk.edu.cn/) (Jun. 2022-May. 2023)
-
-  Research Assistant, supervised by Prof. CUI Shuguang and Prof. YIN Feng
 
 * School of Data Science, CUHK(SZ) (Jan. 2023-Oct. 2023)
 
